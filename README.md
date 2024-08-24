@@ -13,7 +13,7 @@ Next, navigate to the home directory:
 ```
 cd ~
 ```
-Then create the directory for the future Minecraft server. For example, name it minecraft:
+Then create the directory for the future Minecraft server. For example, name it `minecraft`:
 ```
 mkdir minecraft
 ```
@@ -22,3 +22,7 @@ And navigate the created directory:
 cd minecraft
 ```
 Next, get the download link for the latest version from the download page.
+
+![](images/download-page.png)
+
+Continued on the [iolloi.icu](https://iolloi.icu/index.php/2024/08/24/how-to-install-minecraft-server-on-ubuntu/)
